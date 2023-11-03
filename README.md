@@ -36,7 +36,6 @@ func TestFetchArticles(t *testing.T) {
 
   // do stuff that makes a request to articles
   ...
-
   // get count info
   httpmock.GetTotalCallCount()
 
